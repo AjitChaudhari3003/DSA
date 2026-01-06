@@ -12,6 +12,7 @@
 //Input: nums = [21,21]
 //Output: 64
 
+
 class Solution {
     private int factors(int n) {
         int sum = 0, c = 0;
