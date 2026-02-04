@@ -1,8 +1,4 @@
 3640. Trionic Array II
-Hard
-Topics
-premium lock icon
-Companies
 You are given an integer array nums of length n.
 
 A trionic subarray is a contiguous subarray nums[l...r] (with 0 <= l < r < n) for which there exist indices l < p < q < r such that:
