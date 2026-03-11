@@ -7,7 +7,6 @@
 // Output: 2
 // Explanation: 5 is "101" in binary, with complement "010" in binary, which is 2 in base-10.
 
-
 class Solution {
     public int bitwiseComplement(int n) {
         if(n==0) return 1;
